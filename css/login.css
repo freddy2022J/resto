@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    height: auto;
+    
+}
+body{
+    background-image: url(ahantu.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    }
+  
+
+form{
+    margin-top: 30vh;
+    margin-left: 35vh;
+    height: 100vh;
+    width: 50vh;
+    
+}
+fieldset{
+    border: 2px solid rgb(16, 101, 132);
+    border-radius: 10px;
+    background-color: #350870;
+    color: #fff;
+}
+h1{
+    background-color: #350870;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.lb{
+    margin-left: -17vh;
+    background-color: #350870;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.in{
+    background-color: beige;
+    border-radius: 4px;
+    text-decoration: none;
+}
+button{
+    width: 50vh;
+    height: 8vh;
+    background-color: #994cff;
+    border: 2px;
+    border-radius: 10px;
+   
+}
+button a{
+    background-color: #994cff;
+    text-decoration: none;
+}
+button:hover{
+    background-color: #994cff;
+}
+button:active{
+    background-color: red;
+}
+button a:active{
+    background-color: red;
+}
+.left{
+    width: 50vh;
+    height: auto;
+    margin-top: -107vh;
+    margin-left: 30vh;
+}
+h5{
+    margin-top: 8vh;
+    font-size: 28px;
+    color: #a1cddc;
+}
+.left p {
+    color: #a1cddc;
+    font-size: 23px;
+}

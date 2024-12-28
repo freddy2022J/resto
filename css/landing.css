@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(179, 226, 243);
+}
+.body{
+    margin-left: 30vh;
+    margin-top: 15vh;
+}
+h3{
+    color: rgb(213, 151, 6);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    text-shadow: 0 0 10px rgb(213, 151, 6);
+}
+.par{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+button{
+    width: 50vh;
+    height: 8vh;
+    background-color: rgb(213, 151, 6);
+    border: 2px;
+    border-radius: 10px;
+   
+}
+button a{
+    background-color: rgb(213, 151, 6);
+    text-decoration: none;
+}
+button:hover{
+    background-color: aqua;
+}
+button:active{
+    background-color: red;
+}
+.img{
+    width: 60vh;
+    height: 20ch;
+    margin-left: 140vh;
+    margin-top: -45vh;
+    color: blanchedalmond;
+    border: 2px solid ;
+    border-radius: 15px;
+    background-color: rgb(168, 214, 233);
+    box-shadow: 0 0 10px rgb(168, 214, 233);
+}
+.img h4{
+    margin-left: 10vh;
+    margin-top: 8vh;
+    background-color: rgb(168, 214, 233);
+    
+}

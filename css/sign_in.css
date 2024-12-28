@@ -1,0 +1,62 @@
+*{
+    background-color: rgb(179, 226, 243);
+}
+form{
+    margin-top: 20vh;
+    margin-left: 35vh;
+    height: 100vh;
+    width: 50vh;
+    
+}
+fieldset{
+    border: 2px solid rgb(16, 101, 132);
+    border-radius: 10px;
+    background-color: beige;
+    color: rgb(213, 151, 6);
+}
+h1{
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.lb{
+    margin-left: -17vh;
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.in{
+    background-color: beige;
+    border-radius: 4px;
+    text-decoration: none;
+}
+button{
+    width: 50vh;
+    height: 8vh;
+    background-color: rgb(213, 151, 6);
+    border: 2px;
+    border-radius: 10px;
+   
+}
+button a{
+    background-color: rgb(213, 151, 6);
+    text-decoration: none;
+}
+button:hover{
+    background-color: aqua;
+}
+button:active{
+    background-color: red;
+}
+.left{
+    width: 50vh;
+    height: auto;
+    margin-top: -107vh;
+    margin-left: 30vh;
+}
+h5{
+    font-size: 28px;
+    color: rgb(213, 151, 6);
+}
+.left p {
+   
+    font-size: 18px;
+}
